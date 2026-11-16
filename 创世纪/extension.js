@@ -3881,7 +3881,7 @@
                             );
                             var target = event.target;
                             if(target && target.isIn()) {
-                                await target.faShuDamage(1, player, "nocard");
+                                await target.faShuDamage(2, player, "nocard");
                             }
                         },
                         "ai": {

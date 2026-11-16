@@ -120,12 +120,12 @@ extension["十周年语音包"] = {
 };
 
 extension["创世纪"] = {
-	"date": "2026/11/12",
+	"date": "2026/11/16",
 	"intro": "添加角色贝亚娜斗神、百花缭乱、露米娅、希露菲、天启者、狱血魔神。",
 	"author": "蒙牛",
 	"netdisk": "",
 	"forum": "",
-	"version": "2.20",
+	"version": "2.21",
 	"files": [
 		"LICENSE",
 		"README.md",
